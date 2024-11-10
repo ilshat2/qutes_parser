@@ -35,7 +35,7 @@ ilshat2
 
    Выбор этих инструментов обусловлен их простотой использования, эффективностью и широкой поддержкой в сообществе Python.
 
-![Текст описания](https://disk.yandex.ru/i/GA25uEEDk1xGNQ)
+![Сайт]([https://disk.yandex.ru/i/GA25uEEDk1xGNQ](https://s150klg.storage.yandex.net/rdisk/52dd30bb5001f0d49672fc799af02b18d8876d7329fd3c1f6a12e60b92d5c4b3/67311599/0JuFFzj6vEKtTl6asCetFVu2XQDLALFEqVg6ZXDL11PnmuB12smLa_NxTzdah9f0hs_ap9RcEd5IAeY-7-TqkQ==?uid=225112873&filename=Quotes%20to%20Scrape.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=225112873&fsize=92165&hid=9fb310851f6db1917b179f185feba802&media_type=image&tknv=v2&etag=1f2929ed36f703acbfe5072728a4146f&ts=62694b7cdd840&s=712a35ed7eae7080cfded3739f8f5cfd2d9c816f79ff950834284c51d7bd6b15&pb=U2FsdGVkX1-ylek_idD8z_pO-NK2lNJ3_Xpsdbh4m6sl0LPNk_lq57P3FRsFjiNw4Zvft-c1J4tCL2F9_TOTvUNQRhnNlwoQy3SjRCSwZJ4)
 
 ---
 
