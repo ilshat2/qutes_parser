@@ -1,5 +1,5 @@
 # qutes_parser
-Проект для извлечения цитат с сайта https://quotes.toscrape.com/
+Проект для извлечения цитат с сайта [Quotes to Scrape](https://quotes.toscrape.com/)
 
 
 
@@ -9,5 +9,5 @@ ilshat2
  └── qutes_parser
      ├── .gitignore
      ├── README.md
-     ├── parser.py    <-- _файл с кодом_
-     ├── quotes.json  <-- *файл с цитатами*
+     ├── parser.py    <-- файл с кодом
+     ├── quotes.json  <-- файл с цитатами
