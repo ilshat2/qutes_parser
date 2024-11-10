@@ -2,6 +2,16 @@
 
 Проект для извлечения цитат с сайта [Quotes to Scrape](https://quotes.toscrape.com/)
 
+### Структура проекта:
+```
+ilshat2
+ └── qutes_parser
+     ├── .gitignore
+     ├── README.md
+     ├── parser.py    <-- файл с кодом
+     ├── quotes.json  <-- файл с цитатами
+```
+
 ## Что было сделано в рамках проекта?
 
 - **Парсинг веб-страниц:** Код осуществляет парсинг веб-страниц с сайта [Quotes to Scrape](https://quotes.toscrape.com/).
@@ -25,13 +35,7 @@
 
    Выбор этих инструментов обусловлен их простотой использования, эффективностью и широкой поддержкой в сообществе Python.
 
-### Структура проекта:
-```
-ilshat2
- └── qutes_parser
-     ├── .gitignore
-     ├── README.md
-     ├── parser.py    <-- файл с кодом
-     ├── quotes.json  <-- файл с цитатами
-```
+![Текст описания](https://disk.yandex.ru/i/GA25uEEDk1xGNQ)
+
 ---
+
