@@ -9,5 +9,5 @@ ilshat2
  └── qutes_parser
      ├── .gitignore
      ├── README.md
-     ├── parser.py    <-- *файл с кодом*
+     ├── parser.py    <-- _файл с кодом_
      ├── quotes.json  <-- *файл с цитатами*
