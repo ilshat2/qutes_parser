@@ -29,7 +29,7 @@ url = 'https://quotes.toscrape.com/'
 
 quotes = extracting_quotes(url)
 
-with open('quotes.json', 'w', encoding='utf-8') as file:
+with open('qutes_parser/quotes.json', 'w', encoding='utf-8') as file:
     json.dump(quotes, file, indent=4, ensure_ascii=False)
 
-print('Нусссссс')
+print('"Данные сохранены в файл quotes.json')
