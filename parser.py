@@ -27,23 +27,25 @@ def extracting_quotes(address):
 
 def next_page(address):
     
-    if 'page=' in url:
-        base_url, page_number = url.split('page=')
-        return base_url + f'page={int(page_number)+1}'
+    if 'page/' in address:
+        base_url, page_number = address.rsplit('page/')
+        return f"{base_url}page/{int(page_number.strip('/')) + 1}/"
     else:
         return None
     
-
+# Начальные данные
 url = 'https://quotes.toscrape.com/page/1/'
 all_quotes = []
 max_page = 10
-page = 1
+current_page = 1
 
- 
-
-#one_page_quotes = extracting_quotes(url)
+while current_page <= max_page and url:
+    quotes_from_page = extracting_quotes(url)
+    all_quotes.extend(quotes_from_page)
+    url = next_page(url)
+    current_page += 1
 
 with open('qutes_parser/quotes.json', 'w', encoding='utf-8') as file:
-    json.dump(one_page_quotes, file, indent=4, ensure_ascii=False)
+    json.dump(all_quotes, file, indent=4, ensure_ascii=False)
 
 print('"Данные сохранены в файл quotes.json')
