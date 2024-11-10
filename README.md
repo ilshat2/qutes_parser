@@ -1,5 +1,5 @@
 # qutes_parser
----
+
 Проект для извлечения цитат с сайта [Quotes to Scrape](https://quotes.toscrape.com/)
 
 
