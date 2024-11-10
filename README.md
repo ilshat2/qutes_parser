@@ -2,7 +2,6 @@
 
 Проект для извлечения цитат с сайта [Quotes to Scrape](https://quotes.toscrape.com/)
 
-
 ## Что было сделано в рамках проекта?
 
 - **Парсинг веб-страниц:** Код осуществляет парсинг веб-страниц с сайта [Quotes to Scrape](https://quotes.toscrape.com/).
@@ -35,3 +34,4 @@ ilshat2
      ├── parser.py    <-- файл с кодом
      ├── quotes.json  <-- файл с цитатами
 ```
+---
